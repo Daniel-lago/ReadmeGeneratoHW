@@ -1,4 +1,4 @@
-# README.md Generator: Node.js and ES6+
+# README.md Generator: Node.js
 
 ## Description 
   
@@ -56,7 +56,7 @@ The application also utilizes, as much as possible, syntax and paradigms introdu
 - Arrow functions, 
 - `const`, `let`, 
 - Template literals, and
-- `async/await` to handle `inquirer`, `axios`, and `fs.writeFile` promises.
+- `async/await` to handle `inquirer`, and `fs.writeFile` promises.
 
 
 ## License
